@@ -4,7 +4,7 @@
 
 ### About me
 
-- Java Developer
+- A Java Developer
 
 
 
