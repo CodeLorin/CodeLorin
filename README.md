@@ -13,7 +13,7 @@
 
 
 
-| <a href="https://github.com/CodeLorin/CodeLorin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeLorin&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CodeLorin/CodeLorin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLorin&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/CodeLorin/CodeLorin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeLorin&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CodeLorin/CodeLorin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLorin&layout=compact&hide_border=true&hide=html" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
