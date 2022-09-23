@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Codelorin
+### 👋 Hi, I'm CodeLorin
 
 - Seek knowledge like thirst, be modest like foolishness
-- relax && enjoy
+- Relax && Enjoy
 
 ### About me
 
